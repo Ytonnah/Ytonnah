@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Some basic-messy info about me
 
 - 🔭 I’m currently Studying CompSci.
 - 🌱 I’m currently learning GDscript, JS, Python, C++, C, and Basic Web Development
