@@ -2,7 +2,7 @@
 
 
 Some basic-messy info about me
-
+- Information Systems
 - 🔭 I’m currently Studying CompSci.
 - 🌱 I’m currently learning GDscript, JS, Python, C++, C, and Basic Web Development
 - 👯 I’m looking to collaborate on future 2d game projects
