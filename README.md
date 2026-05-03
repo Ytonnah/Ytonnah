@@ -1,11 +1,9 @@
 ### Hi there 👋
+I like making Games
 
-
-Some basic-messy info about me
 - Information Systems
-- 🔭 I’m currently Studying CompSci.
-- 🌱 I’m currently learning GDscript, JS, Python, C++, C, and Basic Web Development
-- 👯 I’m looking to collaborate on future 2d game projects
+- API development and design
+
 <!--- 🤔 I’m looking for help with music and 
  💬 Ask me about: -->
 - 📫 How to reach me: //not added yet
